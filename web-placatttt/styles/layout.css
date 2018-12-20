@@ -146,7 +146,7 @@ main
     background-size: 200% 100%;
 }
 
-.vie:hover
+.knopka:hover
 {
     color: #fff;
     background-position: 0 0;
@@ -246,6 +246,7 @@ main
         grid-template-rows: auto 200px 200px auto 200px 200px 200px auto 200px 200px auto;
         grid-gap: 25px;
         grid: repeat(3, 1fr) / repeat(2, 1fr);
+
         margin-top: 5vw;
         justify-content: center;
     }
